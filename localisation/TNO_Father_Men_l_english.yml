@@ -26,9 +26,9 @@
  ### Ministers ###
  #Men
  OMO_Nikolay_Eshliman_hog:0 "Nikolay Eshliman"
- OMO_Yuriy_Rytkheu_for:0 "Yuriy Rytkheu"
- OMO_Vasily_Nalimov_eco:0 "Vasily Nalimov"
- OMO_Gleb_Yakunin_sec:0 "Gleb Yakunin"
+ OMO_Yuriy_Rytkheu_for:0 "유리 릿헤우"
+ OMO_Vasily_Nalimov_eco:0 "바실리 나리모프"
+ OMO_Gleb_Yakunin_sec:0 "그렙 "
 
  #Sudoplatov collapse
  OMO_Nahum_Eitingon_hog:0 "Nahum Eitington"
@@ -58,7 +58,7 @@
  OMO_yet_the_darkness_did_not_overcome:0 "그러나 어둠은 극복하지 못하였다"
  OMO_yet_the_darkness_did_not_overcome_desc:0 "The first statement God ever uttered was "Let there be light" - the first thing that he created was light and its associated lightness. This lightness exists in all of humanity, no matter how dark the world around us may seem. It is taught by both the Bible and the Father that God loves his children and will redeem our world. No matter what will happen, no matter the hardships experienced, and no matter the dangers that lie ahead, we are God's tools to ensure that regardless of the events in the coming months, God will ensure that the darkness will not now, nor ever, overcome the light.\n\n"Again Jesus spoke to them, saying, 'I am the light of the world. Whoever follows me will not walk in darkness, but will have the light of life'.""
 
- OMO_arm_the_believers:0 "성도들의 무장"
+ OMO_arm_the_believers:0 "신자들의 무장"
  OMO_arm_the_believers_desc:0 "If we are realistic, living by example and preaching in the frozen wastes of Northern Siberia will only get our movement so far. Indeed, it seems like it has already begun to paint a target on our backs by some of the more paranoid despots and their lackeys. Thus, we need to begin to prepare for a great confrontation with the armies of darkness. It has become obvious that we will approach this two-fold: the first is by preparing Sudoplatov and his troops, and the second is by beginning to mobilize our Christian militias and arming them in any way possible. Sudoplatov, while somewhat of a wild card, has been useful to us so far. It is time that we put our faith in him and his soldiers - they will be an integral part in our upcoming struggles. And our militias, filled with the most vehement of our followers, will flow over the forces of darkness like a second flood - but this time, instead of water punishing the wicked, it will be our brave soldiers, fighting for the sake of the light."
 
  OMO_sudoplatovs_brigade:0 "스도플라토프의 여단"
@@ -82,7 +82,7 @@
  OMO_bring_the_sword:0 "검을 꺼내들다"
  OMO_bring_the_sword_desc:0 ""The Spirit of the Lord God is upon me, because the Lord has anointed me to bring good news to the poor; he has sent me to bind up the brokenhearted, to proclaim liberty to the captives, and the opening of the prison to those who are bound."\n\nIf anything has become clear in the past few months, between the formation of the Communal Union and the fraternal militias, the beginning of the peasant revolts and our taking of the towns, it is that the people have heard the call of our Lord God and his ever-faithful servant, Father Men. It is time to liberate our brothers and sisters in Christ from the tyranny of the Bolshevik pretenders and their reactionary, fascistic counterparts. The struggle will not be an easy one but it is a necessary one. For it is the call of our followers to bring light back to our broken nation, and reintroduce hope and truth to a land gripped by darkness."
 
- OMO_the_harbinger_of_deceit:0 "The Harbinger of Deceit"
+ OMO_the_harbinger_of_deceit:0 "기만의 조짐"
  OMO_the_harbinger_of_deceit_desc:0 ""You live in the midst of treachery; by deceit they shall deny knowing Me." Jeremiah 9:6.\n\nIt is written: their words shall be obedient but their hearts will be far away. So has it been for those that claim to rule the Far East - the yoke of those peoples that once followed God has grown heavy under the rule of the godless, those who would spin fables of a golden future of freedom even as the present shook under their iron-tipped boots. But the people of the Lamb will not be shaken by their lies.\n\nAlready our brethren in the Godless Places, the Red-Banner Lands, spread the Word, desperate, ceaseless in their efforts. They whisper of broken promises and the whips whose cracks echo behind the marching armies. They hint at the sorrow that belies all trust in the world and its "protectors", its Marshals and Premiers - and at a better one in the making. One where the Prince of Peace has made a true, lasting, just home for all Russians.\n\nAnd, they say, the time is coming when that home will be ripe for the taking."
 
  OMO_the_pharaoh_of_irkutsk:0 "이르쿠츠크의 파라오"
@@ -94,25 +94,25 @@
  OMO_let_my_people_go:0 "Let My People Go"
  OMO_let_my_people_go_desc:0 ""Sanctify the fiftieth year and declare freedom on earth to all your inhabitants; it will be a year of Jubilee." Leviticus 25:10\n\nIt has always been the task of the Lord's chosen to deliver the Good News to the enslaved. Just as it was under the yoke of the Romans, the Spirit dwells closest to those whose hearts long for freedom, and it is in these hearts that the seeds of true faith are most fertile. And now that despots reign unfettered across the Rodina, the time has come to promise the lost exactly what they want to hear - freedom, not in a hundred years or a dozen, but now.\n\nThe Priests we have sent across the lands of the Far East deliver pamphlets by the thousand, speaking household by household of a freedom unlike any other - freedom from the yokes of Red and Black, freedom from the petty Tsars and their worthless courts, freedom to live and love and worship. The lights shine in the darkness - and the darkness shall not overcome them.\n\nFor, they say, a final battle approaches - and this time the seas shall not close over armies alone, but sweep away the whole of broken Russia. Only the Lamb can save from this latter-day Passover. Only the Father can bring it to pass."
 
- OMO_the_simon_of_buryatia:0 "부랴티야의 시몬"
+ OMO_the_simon_of_buryatia:0 "부랴티야의 마술사 시몬"
  OMO_the_simon_of_buryatia_desc:0 ""May your silver join you in perdition, who thought of the gift of God as something that could be bought with money!" Acts 8:20\n\nBuryatia: a nation caught on the jagged edge of its own future. Alluring, godless, ceaselessly seeking the "welfare" of the region even as it lurches into disunity. A latter-day sorcerer in an age long past miracles.\n\nAnd God has no patience for sorcerers - especially those clad in red robes.\n\nEven now the Republic preaches its own brand of "freedom" to the children who do not know better. Peace, land, bread and liberty - we have heard this promise before, and we have seen only the shattered parishes and razed churches stretching to the horizon in its wake. If this Sablin fellow truly meant to leave the Russian people in peace, he need only have given up the banner of the Sword and Sickle - and yet it is that, and not the Banner of the Cross Arrayed, that waves over the Baikal Lake.\n\nGod has no patience for sorcerers. And our own has long since run dry. Buryatia will find the Truth dwells in us - and if that means we must rebuke them with fire until their eyes can see nothing else, then so be it."
 
  OMO_do_away_with_lenins_cult:0 "레닌의 숭배와 함께 사라지다"
  OMO_do_away_with_lenins_cult_desc:0 ""My people! Your rulers have misled you - they have ruined the course of your paths." Isaiah 3:12\n\nOnce a King ruled in Babylon, then in Syria, then in Rome ; a spectacle to all the world, a power for whom even the mountains quivered. Once there was a golden statue, a beacon of worship and of faith in the power of a single man. Once there was desolation wrought upon the God-fearing, and a choice. Worship a man or die the death of a beast.\n\nWhen it came Russia's time to behold its own terrible King, nearly all bowed, in unvoiced fear or in genuine adoration. The Kingdom he and his successors reigned over fell quickly, a house on shifting sands. And yet the broken pedestal remains, a platform for all manner of vermin to feed upon the hopes of the Motherland. His name is still whispered even in the lands burnt over by our Priesthood, a name to terrify and to awe: Lenin. Lenin. Lenin.\n\nChrist alone stands as the Judge of Men. It is time we purged the most recent claimant of that title from the hearts of our people - and then the Kingdom, the Power and Glory shall truly be His, now and forevermore."
 
- OMO_vindicate_the_virtuous:0 "Vindicate the Virtuous"
+ OMO_vindicate_the_virtuous:0 "고결한 정당화"
  OMO_vindicate_the_virtuous_desc:0 ""He is the Lord of Lords and King of Kings, and they who are with Him are called, chosen and faithful." Revelations 17:14\n\nThe harvest is plentiful, the reapers few; even now the Father's dominion is besieged with requests from villages seeking the glory of God. Priests have become important intercessories between our central administration and the villages they manage - truly a bridge between the coming Kingdom and the realm of men - but their abilities are limited by their sheer lack of numbers as well as external pressures.\n\nTo create a better world, sacrifices must be made. We will create agencies to manage the finances and the laws in the Far East, and ensure that these positions are filled solely with those we deem virtuous. There is no room for the complainer, the doubter and the closet secularist in our New Jerusalem, and certainly not in its highest offices.\n\nAs for those who deem it corruption, or accuse us of marrying power to the Church: their courage is well-placed, even if their faith is not. Let the work of our Faithful prove itself, and those who are not convinced - well, they who stand not with us stand against us. And how can a house stand divided against itself?"
 
- OMO_end_to_the_pharisees:0 "End to the Pharisees"
+ OMO_end_to_the_pharisees:0 "바리새인들의 종말"
  OMO_end_to_the_pharisees_desc:0 ""You offspring of vipers! Who warned you to flee from the wrath that is coming upon you?" Matthew 3:7\n\nThe spirit of the Lord brings freedom, and yet there are those in the former Soviet lands that have usurped the spirit of the Lord to break the will of the people. Collaborators, liberation priests, outright traitors to the Motherland - only what they have done, and what they have failed to do, in His name matters to us.\n\nYet the Lord is forgiving, and perhaps a new path might yet bloom in the desert where once there had been none.\n\nAs the Church shapes the Soviet lands anew, these wayward servants will be given their ten talents and told to make them count - we will incorporate them into our administration as corrective sentences, and their hands and feet will be first to the tiller of public service. The workers, after all, are few. Why make enemies of those we could use to spread the Good News?\n\nAnd as we pray with them, we will keep one eye open, and one ear to the ground - the kingdom we are building here is vast as our Lord is kind, but it has no room for those who would turn traitor again."
 
- OMO_the_harbinger_of_reaction:0 "The Harbinger of Reaction"
+ OMO_the_harbinger_of_reaction:0 "반응의 조짐"
  OMO_the_harbinger_of_reaction_desc:0 ""Behold - I stand at the door and knock." Revelations 3:20.\n\nIt is written: with arrogance they will threaten oppression. For a thousand years and more the Russian people have lived as strangers in their own land - the peasants knelt before a Crown, a Red Star, and then a thousand variants of foreign ideology and paperback tyranny. The peasantry who shouldered Russia's burdens groaned and knelt - Vozhd, King, all were the same in their demands for submission. And as the villages innumerable and unnamed cried out to God, they prayed for the cup dripping with blood to be removed.\n\nGod has answered His people. His answer is Father Alexander Men.\n\nAs the Harbin warlords fight their petty battles the ground beneath them quakes. The air fills with whispers of local revolt and grain quotas burnt wholesale, of roads that are there one day and one with Nineveh the next. The Holy Spirit moves upon the earth once more. The captives are freed, the wounded healed - justice promised, and vengeance delivered.\n\nLet all who would resist this pray for their souls, for the Father alone delivers - we shall only execute His word."
 
  OMO_the_serpent_of_magadan:0 "마가단의 독사"
  OMO_the_serpent_of_magadan_desc:0 ""You will tread on the asp, the basilisk - the lion and the dragon you will trample underfoot." Psalms 91:13\n\nIn the beginning the temptation of the Serpent led Mankind into damnation and death. Its latest incarnation, the doctrine of Fascism, is the most lethal variant of the Serpent Russia has witnessed, and in the end it proved its undoing.\n\nThe Fascist snake slinks still in the bottom of Russia, clinging like tendrils to the scant warmth of their Japanese backers in the hopes of one day bringing all of Russia under their yoke. Underneath the perversion of the Cross that is their symbol, thousands march to the beat of a single man, and thousands more tremble in fear of the horrors unmentionable that await anyone that steps out of line.\n\nSuch a creature is an abomination unto the Living God. The men of the Father are, however, masterful snake-handlers. And as we face down the latter-day Serpent in his rotting citadel, we will break the will of his handlers, so that the people of Magadan may once again be liberated from their bondage."
 
- OMO_expel_the_moneylenders:0 "Expel the Moneylenders"
+ OMO_expel_the_moneylenders:0 "고리대금업자 추방"
  OMO_expel_the_moneylenders_desc:0 ""Now listen, you rich. Weep and wail for the calamities that shall befall you." James 5:1\n\n"Your wealth has become corroded, your garments moth-eaten; your gold and silver rusted, and that rust a testimony upon you, like a fire that will consume your flesh. For you have hoarded treasure in the last days. Behold, the pay that you stole from the workers of the field cries out - and the sound of their cries is heard by the Lord of Hosts."\n\nThese are the words of the Lord, and we shall obey. For those who profited off the sufferings of the Russian people, the mosquitoes drinking and feasting in the ulcers and wounds of the peasants - they will wish for the cleansing embrace of fire, so merciful and swift compared to the work of our hands.\n\nAnd when we are finished, we shall purge them all from our lands, a great wave of human vermin who once called themselves bankers, arms dealers, and usurers - in their testimony they will find a final redemption. Perhaps He, in His mercy, can grant what we cannot.\n\nRelease."
 
  OMO_punish_the_leviathan:0 "저 레비아탄을 벌하라"
@@ -124,7 +124,7 @@
  OMO_depose_the_wicked_church:0 "간악한 교회들을 폐함"
  OMO_depose_the_wicked_church_desc:0 ""Because you have defiled my sanctuary with your abominable images and practices - I will myself belittle you; I will neither pity nor spare you." Ezekiel 5:11\n\nThere is nothing more contemptuous in the Scriptures than those who have suborned the Gospel of Christ. Not for nothing is the name of Judas, who sold the Savior to the Romans for a pittance, universally condemned. And we have found plenty of modern Judases in the land of Amur, priests who have wholeheartedly sworn allegiance to the Fascist ideal - they have replaced the Holy Communion with the boot-polish of their oppressors.\n\nWe must take action to cleanse this land of the Church which stood by and approved of its suffering, and re-educate its priests. What we cannot save we shall cast into the fire - perhaps God, in a fit of mercy, will rescue His own where we have failed."
 
- OMO_the_day_of_deliverance:0 "The Day of Deliverance"
+ OMO_the_day_of_deliverance:0 "구원의 날"
  OMO_the_day_of_deliverance_desc:0 ""Great is Your mercy for me - You have delivered my soul from the depths of Hell." Psalm 86:13\n\nThe Fascists of Amur had many enemies. Some were opponents of the Fascists from the beginning, many were self-created from the endless paranoia of Rodzaevsky's men, but all have gained a profound hatred of the regime and its swastikas. It now falls upon us to deliver a new message - here in Amur, God is, at long last, doing a new work. We shall clear the jails and torture-cells of the old regime, inviting them to join the House of God and help rebuild.\n\nEven if they refuse, their stories of the madness that transpired in the fetid corners of the city shall forever destroy the power of the Fascist grip. God's work does not always take place through the willing, but it shall not be stopped by their hesitance."
 
  OMO_the_belshazzar_of_chita:0 "치타의 벨사살"
@@ -133,13 +133,13 @@
  OMO_depose_the_justice_of_the_commoners:0 "The Justice of the Commoners"
  OMO_depose_the_justice_of_the_commoners_desc:0 ""Do not be partial to the poor or deferential to the great - in righteousness shall you judge your neighbor." Leviticus 19:15\n\nThe fool says in his heart that there is no God - only the blind, however, can deny that His touch heals. Through the intensive work of our priests the Church we are building has taken on the burdens of social work and redevelopment, and through God's grace we have built a lighthouse in the lands that we were given. We will use these ecclesiastical structures to rebuild that which was marred by the touch of the Tsar's tyranny, distributing the fruits of inequality to the oppressed and powerless.\n\nLet no man stand before us and say that we folded our hands, waiting for the Savior to descend - we will begin His work here, now, and it shall be beautiful in its own right."
 
- OMO_no_render_unto_tsars:0 "No Render Unto Tsars"
+ OMO_no_render_unto_tsars:0 "차르에게 바칠 것은 없다"
  OMO_no_render_unto_tsars_desc:0 ""Come, I will show you the judgment of the great harlot sitting upon the waters - with whom the kings of the earth fornicated, and their citizens made merry." Revelations 17:1-2\n\nBabylon yesterday, Rome today, Chita tomorrow. All turned away from the Living God when it suited them, all harassed the Church in the name of political necessity, all wore their crowns in the firm, unshakeable belief that they would never be taken away.\n\nAnd yet God, in His wisdom, has made the heavens tremble and the earth break from under them all.\n\nAs we redistribute the fruits of this petty monarchy to the people, we will make an example of this Tsar Mikhail. The wounds he has helped deliver for the White Russians might yet be healed, given time and the Lord's will. Until then, only justice remains to be done."
 
  OMO_end_to_the_princes:0 "End to the Princes"
  OMO_end_to_the_princes_desc:0 ""And in the days of those kingdoms the God of Heaven shall build a kingdom that shall neither be destroyed nor left to another. It will crush all other kingdoms and bring them to an end - but it will itself endure forever." Daniel 2:44\n\nIn the face of our Antiochus Epiphanes we have destroyed the Despoilers of our land - like Moses, we celebrate victory in the face of defeat. But now that the Lord has brought us out of the depths, we must steady our breath and face what lies ahead with strong hearts and clear heads. Harbin still struggles with the cults of the tyrants and the kings that once ruled that area, and with the rampant crime and disorder that brought them into being.\n\nWe will spare no cost, we will withhold not even our sons, in the effort to destroy the last of the despotist followers. For we know, more than anyone else, that the Prince of Peace shall brook no opposition when He comes. It is for us to clear the rubble, that the Temple might shine all the brighter."
 
- OMO_the_kingdom_of_god_within_us:0 "The Kingdom of God Within Us"
+ OMO_the_kingdom_of_god_within_us:0 "우리안에 있는 하나님의 왕국"
  OMO_the_kingdom_of_god_within_us_desc:0 ""Behold - I show you a mystery. We shall not all sleep, but we shall all be changed." 1 Corinthians 15:51\n\nWe look unto our bloody hands, and at the earth splattered with our sorrows as dew upon the morning grass. We look at the cities that now ring with joyous prayer where there was only silence, at the priests we have birthed anew into a better calling. We whisper, in a voice as tired as it is jubilant, one word.\n\nTetelestai. It is finished.\n\nThere is much left, even now, to be done - but God commands us to look inward, not outward, for fresh revelation of His will. God has granted us the destruction of our enemies, and now it is our duty to retrain His wilful flocks into fresh obedience and joy. And the Father himself speaks, with a strange fire in his eyes, of the new things that can be done in the villages, so full of youth and so ready to change.\n\nWe will watch and wait, trimming the wicks night after night - and when the time comes, we will be ready."
  
  ### Regional Tree ###
@@ -152,7 +152,7 @@
  OMO_the_rural_ideal:0 "The Rural Ideal"
  OMO_the_rural_ideal_desc:0 ""The Lord God took the man and put him in the garden of Eden to work it and keep it." Genesis 2:15\n\nIt is no coincidence that the great men of Scripture were of bucolic stock - farmers, shepherds, fishmongers - for beyond the city's comforts lie a world where God's temperament alone decides the fortunes men accrue. Plying a trade involving His creations, so wont to plenty one season and meagerness the next, oft instills an appreciation for the firm hand He plays over our lives. And from there blossoms forth faith as unshakable as stone.\n\nThat He had chosen the Distant East for the Father's ordained undertakings speaks much of His awe-inspiring prescience; here squalorous cities are sparse, while farmland, pasture and rivers are splayed across its expanse like grass on verdant rolling hills. These climes lend well to simple communes where farmers can till their lands and honor God undisturbed - just as He intended."
  
- OMO_a_village_is_a_family:0 "A Village is a Family"
+ OMO_a_village_is_a_family:0 "마을은 곧 가족이다"
  OMO_a_village_is_a_family_desc:0 ""Both the one who makes people holy and those who are made holy are of the same family. So Jesus is not ashamed to call them brothers and sisters." Hebrews 2:11\n\nSo was it written: they who provide not for their family have made unbelievers of themselves. The Lord taught us this so that we may care for our fellow man - for are we not all sons and daughters of Abraham our Father, no matter our origins and conditions? But alas, like the invitees from our Lord Christ's parables, modern man chose to excuse themselves from charity by restricting their family to close kin. The lengths they travel to satisfy their selfishness would have driven our Lord Christ to genuine anger.\n\nThe Father rejects these hypocrisies out of hand. Henceforth all communes within God's Kingdom shall, both in law and in spirit, and without regard for ancestry and progeny, become each other's kin. Thus will every village grow into a great banquet from which all brothers and sisters in Christ can partake - even the poor, the crippled, the blind and the lame."
  
  OMO_the_holy_cities:0 "성도"
@@ -161,16 +161,16 @@
  OMO_communal_upbringings:0 "Communal Upbringings"
  OMO_communal_upbringings_desc:0 ""And let us consider how to stir up one another to love and good works, not neglecting to meet together, as is the habit of some, but encouraging one another, and all the more as you see the Day drawing near." Hebrews 10:24-25\n\nThus is it written: our Lord God commands us to look for one another as a father looks for his children, or as a sibling looks for his sibling. Father Men considers applying this tenet in a more literal sense.\n\nBecause of the chaos and discord that engulfed Russia, our Motherland is replete with villages without villagers: empty husks that do nothing but remind the passerby of our national tragedy. These may be peopled again, but with strangers from throughout the Russian Far East rather than kin and close neighbors. In effect, much of Russia's countryside has been swept clean as the vineyards of Apocalypse.\n\nThe Father sees tragedy - but also opportunity. Communities where every man is each other's brother, every man fathers to each other's sons may yet arise from Russia's ashes."
  
- OMO_exalt_the_poor:0 "Exalt the Poor"
+ OMO_exalt_the_poor:0 "가난한자들을 칭찬함"
  OMO_exalt_the_poor_desc:0 ""Blessed are the poor in spirit, for theirs is the kingdom of heaven." Matthew 5:3\n\nSo says our Lord God: a camel can easier slip through a needle eye than a rich man can seek passage through Heaven's gates. Consider that the destitute have little else to present before Peter the Apostle besides their souls and deeds, whereas every talent of gold a wealthy departed has accumulated will be scrutinized for their origins. Rome's past statesmen may be fond of regurgitating the saying that money doesn't stink; the Crassuses of today's age, however, will dismayingly realize that the Lord and His host have keener senses than mortal men.\n\nTo lighten their spiritual burdens and conscience, Father Men has taken upon himself yet another burdensome task: lightening the purses of the wealthy men who now live within the Kingdom. The proceeds thereof shall be put to use uplifting the nameless multitudes enjoying neither sustenance nor shelter up until now."
  
- OMO_all_one_in_heaven:0 "All One In Heaven"
+ OMO_all_one_in_heaven:0 "모두 하나로 된 천국"
  OMO_all_one_in_heaven_desc:0 ""I appeal to you, brothers, by the name of our Lord Jesus Christ, that all of you agree, and that there be no divisions among you, but that you be united in the same mind and the same judgment." 1 Corinthians 1:10\n\nThe Lord's clarion call resounded throughout mountains and valleys, plains and cities, crags and seashores and all other manner of terrain. No corner on Earth was spared His ringing invocations. As it was said: many were called, few were chosen. So did much of the world, in its sorry sins, shun the Lord God's beckoning.\n\nThose few who did belong to every nation, race, profession and standing. Rich and poor, urban and rural - these names fell by the wayside when our eyes were all drawn to the New Jerusalem in Russia, ordained by the Lord their maker all. Forever, if the Father has anything to say.\n\nSoon other corners shall bare their hearts to the Lord's warm, holy light. But for now, let us work together to suffuse it throughout all Russia."
  
  OMO_the_revelations_of_the_past:0 "The Revelations of the Past"
  OMO_the_revelations_of_the_past_desc:0 ""All Scripture is breathed out by God and profitable for teaching, for reproof, for correction, and for training in righteousness..." 2 Timothy 3:16\n\nThe 66 books that comprise the Bible, from Genesis to Revelation, contain the Lord God's Words: His wisdom and insight, prescient no matter the age. Every problem modern man has devised for himself has some form of solution, and more often than not are these solutions ascertained through close examination of Gospel.\n\nToday the laity enter an age of reform and revolution. Christ the Liberator has words for both - and Father Men, as His intercessor, has taken parsing through every iota of the Bible's text to glean reforms and revolutionary thought as his heavy, burdensome duty. For the Kingdom of God on Earth must have sturdy foundations that it may last a thousand years, ever awaiting His triumphant return."
  
- OMO_let_none_go_hungry:0 "Let None Go Hungry"
+ OMO_let_none_go_hungry:0 "아무도 배고프지 않게"
  OMO_let_none_go_hungry_desc:0 ""The afflicted shall eat and be satisfied; those who seek him shall praise the Lord! May your hearts live forever!" Psalm 22:26\n\nThe history of our Motherland epitomizes the essence of paradoxes. The empire of the Tsars was largest in the known world, yet proved more feeble than an emaciated octogenarian in the face of Germany. Its priests called her holy, yet their pleas were left unheard when the false prophet Lenin enticed the people into empire-shattering revolt. Russia herself abounded with more farmland and pasture than any other empire in history save the Mongols - and yet much of her people lived day to day with hunger's specter looming over their thoughts.\n\nSo did the Father declare: if Christ our Lord had fed a mountain with two fishes and five loaves of bread, then imagine how many stomachs Russia's bounty amassed can feed!"
  
  OMO_let_none_go_naked:0 "Let None Go Naked"
@@ -206,7 +206,7 @@
  OMO_friendship_between_all_peoples:0 "모든 민족간의 우정"
  OMO_friendship_between_all_peoples_desc:0 ""For there is no distinction between Jew and Greek; for the same Lord is Lord of all, bestowing his riches on all who call on him." Romans 10:12\n\nYahweh. Allah. Bog. The Lord God's name comes in every language that had ever descended from the Tower of Babel. For it was written that everyone who calls upon His name will be saved. Truly His mercy knows no limits if all nations can seek salvation through their own tongues at will.\n\nThe Kingdom shall respect the Lord's covenant with the world's other nations and races. For as long as our men draw breath, no harm shall befall them within His dominion... or without."
  
- OMO_a_truly_holy_russia:0 "A Truly Holy Russia"
+ OMO_a_truly_holy_russia:0 "진실로 거룩한 러시아"
  OMO_a_truly_holy_russia_desc:0 ""They shall speak of the glory of your kingdom\nand tell of your power,\nto make known to the children of man your mighty deeds,\nand the glorious splendor of your kingdom.\nYour kingdom is an everlasting kingdom,\nand your dominion endures throughout all generations.\n\nThe Lord is faithful in all his words\nand kind in all his works." Psalm 145:11-13\n\nFrom the snowy tundras of Siberia emerges a kingdom without an earthly king. For what crown or tiara shines brighter than Iesou Pantokrator?\n\nWithin its bounds spreads Christendom without Christian ornaments. Gold crosses, silver troves, jewel-crusted domes and spires - all ill-gotten wealth, power and prestige, washed from the Church like the sinful before Noah's flood. And like sturdy bedrock, all that remains are articles of genuine, unshakable faith.\n\nAnd through its people blossom godliness without godly hubris. Walk the streets of Omolon and behold the fruits of our evangelism: a house for every family, three square meals for every mouth. Unshackled from vice and buttressed by community, men and women alike now live productive, happy and peaceful lives under the Lord's guidance.\n\nAs the first rays of sunlight grace God's Kingdom, a father prays in an altar..."
  
  OMO_the_fruits_of_labor:0 "노동의 열매"
@@ -242,10 +242,10 @@
  OMO_enforce_humanity:0 "Enforce Humanity"
  OMO_enforce_humanity_desc:0 "Although we must sin to survive, it is imperative that we do not abandon the soul - God hath commanded His flock to not murder. We do not destroy life out of malice, hate, or envy. Our work is necessary, a fact that some people tend to mold to shape their own narratives. The general committees will focus on reshaping the minds of the militias to be forgiving of the enemy. Russia shall not arise from the ashes by killing its own. Only though forgiveness can we rebuild."
  
- OMO_an_army_of_the_faithful:0 "An Army of the Faithful"
+ OMO_an_army_of_the_faithful:0 "헌신적인 군대"
  OMO_an_army_of_the_faithful_desc:0 "The Father preaches selfishness, and the priests obey. After all, how can a true man of God sit behind the frontlines, while his children risk life and limb in defense of his church? The priest must be prepared to fight alongside his people. Fortunately, most priests are also devout followers of the Father, so their loyalty is assured. Naturally, not all priests are fit for active duty. The elderly shall be advised to provide spiritual support, planning services alongside the general staff, and organize village defenses. "
  
- OMO_an_army_of_the_righteous:0 "An Army of the Righteous"
+ OMO_an_army_of_the_righteous:0 "거룩한 군대"
  OMO_an_army_of_the_righteous_desc:0 "He who can keep a cool head during the harshest trials is truly blessed. The Lord recognizes the sacrifices we make, but does not forgive infringements on His holy law. There shall be no slaying - no murder, for that is for the godless. All of Russia is our domain, stolen by forces of the darkest night. Our 'war' is, in fact, a holy struggle for the soul of the nation. Salvation comes to those who take it - with the heavenly blessing we shall not die in vain."
  
  OMO_the_three_temptations_of_the_sinner:0 "The Three Temptations of the Sinner"
@@ -260,7 +260,7 @@
  OMO_leash_the_wolves:0 "Leash the Wolves"
  OMO_leash_the_wolves_desc:0 "During the wars to unify Siberia Sudoplatov's men refused to follow the Father's prohibitions on unnecessary violence and killing, but they were also the most effective soldiers fighting for our cause. Perhaps the Lord sent them to us so that we may redeem these men by working with them? After all, the cause they fight for is righteous, even if they themselves are not. By reminding them of the teachings of God and the Father, we may be able to persuade them to act in a more Christian manner towards their foes. Even if they disregard Father men's words, his mission is too important to risk failure by casting away his allies. If only those allies were more respectful of God's laws."
  
- OMO_sudoplatovs_laws:0 "Sudoplatov's Laws"
+ OMO_sudoplatovs_laws:0 "스도플라토프의 법칙"
  OMO_sudoplatovs_laws_desc:0 "When Father Men created the Divine Mandate, it was a loose network of villages and communes scattered over thousands of kilometers in the vastness of Siberia. There was little central authority, and the Father counted on the faithful to do their part and keep the peace. Now that eastern Siberia has been unified, Sudoplatov has begun calling for Father Men to increase his control. The Father agrees that a formal police force to maintain public order is necessary, but Sudoplatov wishes to go several steps further. He has asked that his men be authorized to enforce discipline in the villages and communes of the Mandate. This would be a step back towards the tyranny of the NKVD, but it may be a necessary step. There are many trials to come and a strong, centralized state may be necessary to overcome them"
  
  OMO_there_is_only_one_judge:0 "오직 하나뿐임의 판사"
@@ -278,7 +278,7 @@
  OMO_and_yet_so_many_could_be_saved:0 "그럼에도 불구하고 많은 사람들이 구할 수 있었다"
  OMO_and_yet_so_many_could_be_saved_desc:0 "Nothing is more important than the lives of God's creations, not even our principles. Sudoplatov's methods are dishonorable, even cowardly, but they might make the difference between a quick conflict and a drawn-out struggle. If a few unchristian acts could save thousands of Christian lives and prevent untold suffering, would it not also be unchristian not to act and condemn so many good children of the Lord to perish? Father Men is uncomfortable with the decision but he must care for his followers above all else. He can only hope that God will understand that he is just a man, as imperfect as any other. Perhaps in the end it will all have been worth it. The Father prays it will be."
  
- OMO_await_judgement:0 "Await Judgement"
+ OMO_await_judgement:0 "판단을 기다림"
  OMO_await_judgement_desc:0 "For many months now Sudoplatov has sent various requests and demands to Father Men, seeking to reform the Divine Mandate to fit his vision and entrench his influence. His suggestions have been logical, well reasoned, and effective, but they clash with the Father's morals and the teachings of God Almighty. After months of intensifying conflict between the two, Sudoplatov's demands have finally stopped coming in. It appears a new equilibrium has been reached. Either Sudoplatov has finally accepted Men's teachings and realized the error of his old ways, or the Father has succumbed to enough of his temptations that he is ready to escalate his campaign to reform Siberia to the next level. Only the Lord knows which shall come to pass. For the people of Russia, time shall have to tell."
 
  ### Superregional Tree ##
@@ -286,7 +286,7 @@
  OMO_the_time_of_liberation:0 "해방의 시간"
  OMO_the_time_of_liberation_desc:0 "Thus the time has come for the devout to spread their arms and embrace our land entire. Despite the pain and hardship that is to follow, let us not mistake the upcoming tribulations for the end of days, but the birth of a Holy Russia! When the Great Deceiver weakens our spirit and fills us with fear, remember that the Lord stands behind us always, and that He loves us as we do our children."
  
- OMO_abolishing_exploitation:0 "Abolishing Exploitation"
+ OMO_abolishing_exploitation:0 "착취의 철폐"
  OMO_abolishing_exploitation_desc:0 "Even in tragic times must we keep the faith. All of God's children throughout the land of Central Siberia have been exploited by agents of Satan, insidious despots, and heathenous communists alike. A reckoning has come for those most evil of men, and their deposition heralds the resurrection of hope for the common people! No man, woman or child under the guidance of Father Men shall be exploited ever again."
  
  OMO_repairing_bukharins_sin:0 "부하린의 죄악을 바로잡다"
@@ -295,10 +295,10 @@
  OMO_a_kingdom_of_god_on_earth:0 "지상에있는 하나님의 왕국"
  OMO_a_kingdom_of_god_on_earth_desc:0 "The Divine Mandate of Siberia serves only the Lord. Father Men serves only the Lord. The future of this holy nation, once united, will serve only the Lord. Our spirits rejoice in God the savior, who grants his mercy to unbelievers as we must too, but to turn our back back on Christian rule would be to turn our back on Him."
  
- OMO_bridge_the_gap:0 "Bridge The Gap"
+ OMO_bridge_the_gap:0 "공백을 매우다"
  OMO_bridge_the_gap_desc:0 "Believers and unbelievers of all strokes have stories to tell and love to spread. Let them be thusly united, so that we may create a peaceful balance of harmony for our holy land. "But if serving the Lord seems undesirable to you, then choose for yourselves this day whom you will serve... but as for me and my household, we will serve the Lord.""
  
- OMO_an_ear_to_the_faithless:0 "An Ear To The Faithless"
+ OMO_an_ear_to_the_faithless:0 "신앙에 귀 기울임"
  OMO_an_ear_to_the_faithless_desc:0 "Whether or not His children find their salvation in His light, God loves them all the same. Lend Father Men your ears, O faithless. Not all throughout this land are devout believers, but their sorrows and dreams shall be listened to."
  
  OMO_a_godly_russia:0 "경건한 러시아"
@@ -310,16 +310,16 @@
  OMO_denouncing_the_sinners:0 "Denouncing The Sinners"
  OMO_denouncing_the_sinners_desc:0 "The seven abominations infest the agents of Satan throughout Russia, but even the most innocent of babes may be corrupted by sin. Thus must our laws reflect the good of the Lord and reject the moral filth of Satan, from brutal murder to avaricious usury."
  
- OMO_a_syncretic_russia:0 "A Syncretic Russia"
+ OMO_a_syncretic_russia:0 "혼합적인 러시아"
  OMO_a_syncretic_russia_desc:0 "The Lord taught Father Men forgiveness as well as faith. As he serves God so shall he serve his people, regardless of their personal faith. A balance of belief shall be encouraged to reflect the beautiful balance of nature, and thus aspects of both Christian and atheist thought alike shall be considered in our laws."
  
- OMO_an_equal_russia:0 "An Equal Russia"
+ OMO_an_equal_russia:0 "평등한 러시아"
  OMO_an_equal_russia_desc:0 "Those who follow their own faiths and idols shall not be outcast from our holy society, but welcomed with open arms to join us in joy. It matters not if heathens do not convert; those who are full of love shall live with God's love in them, for God is love itself."
  
- OMO_faith_is_a_choice:0 "Faith Is a Choice"
+ OMO_faith_is_a_choice:0 "믿음은 선택이다"
  OMO_faith_is_a_choice_desc:0 "Lest we fall into Satan's ensnarement of hatred towards our fellow man, we must allow heathens to practice their own personal faiths. Faith in the Holy Trinity is the purest faith, but those who dedicate their souls to other types of belief and love should never be forcefully dissuaded from such."
  
- OMO_secular_yet_holy:0 "Secular, Yet Holy"
+ OMO_secular_yet_holy:0 "세속적이지만 거룩함"
  OMO_secular_yet_holy_desc:0 "Our Russia shall be a holy land brimming with God's children, but a secular nation all the same. To be a good man is all we ask, for it is good and love that gives hope to the many and fear to the tyrannical few. If the Lord did not love his flawed people, would he have given his only begotten Son to suffer on the Cross?"
  
  OMO_unite_the_flock:0 "Unite The Flock"
@@ -355,7 +355,7 @@
  OMO.7.d:0 ""
  OMO.7.a:0 ""
  
- OMO.8.t:0 "holy time"
+ OMO.8.t:0 "신성한 시간"
  OMO.8.d:0 "god told me to beat up those fascists and leninists that are oppressing people down there, 'sablin isn't oppressing people' you say? you're right i just don't like him."
  OMO.8.a:0 ""
  
@@ -473,18 +473,18 @@
  OMO.36.a:0 "Blessed be the Peacemakers, for they shall be called sons of God."
  
  ### Decisions ###
- OMO_wrath_of_god_category:0 "주님의 분노"
- OMO_wrath_of_god_category_desc:0 "\n\n\n\n\n\nThe sinners of the Far East have abused God's people for too long! We must stir the common folk to rise up against the Godless and help free themselves from their oppression."
- OMO_stir_the_peasants_of_irkutsk:0 "Stir the Peasants of Irkutsk"
- OMO_stir_the_peasants_of_buryatia_tt:0 "Stir the Peasants of Buryatia"
- OMO_stir_the_peasants_of_amur:0 "Stir the Peasants of Amur"
- OMO_stir_the_peasants_of_chita:0 "Stir the Peasants of Chita"
- OMO_stir_the_peasants_of_magadan:0 "Stir the Peasants of Magadan"
+ OMO_wrath_of_god_category:0 "하나님의 분노"
+ OMO_wrath_of_god_category_desc:0 "\n\n\n\n\n\n 극동의 죄인들은 꽤 오랫동안 하나님의 백성들을 억누르고 있습니다! 우리는 일반 사람들을 일으켜 세움으로써 하나님을 믿지 않는 자들에게 대항하여 일어나 그들의 억압에서 벗어나도록 도와야 한다."
+ OMO_stir_the_peasants_of_irkutsk:0 "이르쿠츠크의 농민들을 선동케함"
+ OMO_stir_the_peasants_of_buryatia_tt:0 "부랴티야의 농민들을 선동케함"
+ OMO_stir_the_peasants_of_amur:0 "아무르의 농민들을 선동케함"
+ OMO_stir_the_peasants_of_chita:0 "치타의 농민들을 선동케함"
+ OMO_stir_the_peasants_of_magadan:0 "마가단의 농민들을 선동케함"
 
  OMO_temptations_category:0 "죄악의 유혹"
- OMO_temptations_category_desc:0 "Every saint has his devil, whispering sweet temptations in his ear.\n\nSudoplatov's influence is currently [ROOT.GetOMO_sudoplatovs_influence]\n"
- OMO_raise_peasant_militia:0 "Raise Peasant Militia"
- OMO_recruit_former_nkvd:0 "Recruit Former NKVD"
+ OMO_temptations_category_desc:0 "모든 성도들에게는 각자 그만의 악이 있으며, 그의 귀에 달콤한 유혹을 속삭이고 있습니다.\n\n스도플라토프의 영향력은 현재 [ROOT.GetOMO_sudoplatovs_influence]상태 입니다.\n"
+ OMO_raise_peasant_militia:0 "농민 민병대 양성"
+ OMO_recruit_former_nkvd:0 "구 NKVD 요원들을 모집"
  OMO_galvanize_the_peasantry_for_war:0 "Galvanize the Peasantry for War"
  OMO_galvanize_the_peasantry_for_production:0 "Galvanize the Peasantry for Production"
  OMO_galvanize_the_peasantry_for_construction:0 "Galvanize the Peasantry for Construction"
@@ -509,7 +509,7 @@
  OMO_economy_of_mutual_aid:0 "Economy of Mutual Aid"
  OMO_christian_anarchism:0 "기독교적 아나키즘"
  OMO_a_holy_army:0 "신성한 군대"
- OMO_sudoplatovs_wolves:0 "Sudoplatov's Wolves"
+ OMO_sudoplatovs_wolves:0 "스도플라토프의 "
  OMO_sudoplatovs_connections_idea:0 "Sudoplatov's Connections"
  
 
@@ -520,14 +520,14 @@
  OMO_stir_the_peasants_of_chita_tt:0 "We will galvanize the folk of §Y[WCH.GetNameDef]§! to §Rrise§! up against their oppressors!\n"
  OMO_stir_the_peasants_of_magadan_tt:0 "We will galvanize the folk of §Y[MAG.GetNameDef]§! to §Rrise§! up against their oppressors!\n"
 
- OMO_sudoplatov_influence_increase_tt:0 "§RSudoplatov's influence grows...§!\n"
+ OMO_sudoplatov_influence_increase_tt:0 "§R스도플라토프의 영향력이 늘어납니다... §!\n"
  OMO_raise_peasant_militia_tt:0 "Sudoplatov has offered to arm and train several brigades of peasant militia.\n"
  OMO_recruit_former_nkvd_tt:0 "Sudoplatov has offered to recruit more of his former colleagues. This will raise another NKVD motorized brigade.\n"
  OMO_await_judgement_tt:0 "§RWe will face judgement for our sins...§!"
  OMO_didnt_evade_the_judgement_of_the_LORD:0 "We have faced judgement for giving in to temptations"
 
  ### Scripted Loc ###
- OMO_sudoplatov_influence_very_high:0 "§RVery High§!"
- OMO_sudoplatov_influence_high:0 "§OHigh§!"
- OMO_sudoplatov_influence_medium:0 "§YMedium§!"
- OMO_sudoplatov_influence_low:0 "§gLow§!"
+ OMO_sudoplatov_influence_very_high:0 "§R매우 높은§!"
+ OMO_sudoplatov_influence_high:0 "§O높은§!"
+ OMO_sudoplatov_influence_medium:0 "§Y보통§!"
+ OMO_sudoplatov_influence_low:0 "§g낮은§!"
